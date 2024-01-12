@@ -15,6 +15,7 @@ public class SecondProgram {
 		System.out.println(" All Ok");
 		System.out.println(" 14.1 branch created");
 		System.out.println(" 14.1 branch updated");
+		System.out.println(" master branch updated");
 	}
 	
 	@Before("@Upi")
