@@ -12,6 +12,7 @@ public class SecondProgram {
 	public void CreditDebitLaunchURL()
 	{
 		System.out.println(" Credit Debit url is launched");
+		System.out.println(" All Ok");
 	}
 	
 	@Before("@Upi")
